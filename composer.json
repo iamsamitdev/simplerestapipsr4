@@ -1,0 +1,15 @@
+{
+    "name": "samit/simplerestapipsr4",
+    "autoload": {
+        "psr-4": {
+            "Samit\\Simplerestapipsr4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samit Koyom",
+            "email": "samitkoyom@gmail.com"
+        }
+    ],
+    "require": {}
+}
